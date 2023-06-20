@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "poetry-project"
+name = "qa_guru_hw14_poetry"
 version = "0.1.0"
 description = ""
 authors = ["Elena Morilova <elena.morilova@mail.ru>"]
 readme = "README.md"
-packages = [{include = "poetry_project"}]
+packages = [{include = "qa_guru_hw14_poetry"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
